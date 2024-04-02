@@ -20,7 +20,10 @@
 
 <p style="color: blue;">_________________________________________________________________________________________________________________________________________________</p>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBrutale&layout=compact)
+<p aling="right">
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBrutale&layout=compact)
+</p>
+ 
 
 
 <!-- 
