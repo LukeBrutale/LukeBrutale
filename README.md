@@ -10,6 +10,12 @@
    📫 How to reach me: <a href='yuriybema@gmail.com'>yuriybema@gmail.com</a>
 </p>
 
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=LukeBrutale&color=DE002D">
+   </a>
+</div>
+
 <!--
 **LukeBrutale/LukeBrutale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
