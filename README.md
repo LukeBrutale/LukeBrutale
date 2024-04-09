@@ -14,7 +14,7 @@
    </a>
 </p>
 
-<p style="color: grey">_________________________________________________________________________________________________________________________________________________</p>
+
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBrutale&layout=compact)
 
