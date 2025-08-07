@@ -1,6 +1,6 @@
 ### Hi, I'm Yura 👋
 
-- 🔭 I’m currently working on a group project called marketplace 'Sviy'
+- 🔭 I’m currently developing a full-featured SaaS platform.
 <!-- - 🌱 I’m currently learning Next.js, Tailwind
 - 👯 I’m looking to collaborate on ... -->
 - 📫 How to reach me: <a href='yuriybema@gmail.com'>Email</a>
